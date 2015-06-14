@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Paths</name>
+    <description>Examples of paths. Note that the tessellate tag is by default
+      set to 0. If you want to create tessellated lines, they must be authored
+      (or edited) directly in KML.</description>
+    <Style id="yellowLineGreenPoly">
+      <LineStyle>
+        <color>7f00ffff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color>
+        <width>4</width>
+      </PolyStyle>
+    </Style>
+    <Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87464,0 -94.78555,38.87474,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87464,0 -94.7854,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87464,0 -94.7854,38.87474,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87464,0 -94.785255,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87464,0 -94.7851,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87464,0 -94.78495,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87464,0 -94.78495,38.87474,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87464,0 -94.784805,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.87464,0 -94.78465,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87464,0 -94.7845,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.87464,0 -94.784355,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87464,0 -94.784355,38.87474,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87464,0 -94.7842,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7842,38.87464,0 -94.78405,38.87464,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.87464,0 -94.78405,38.87474,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87474,0 -94.78555,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87474,0 -94.785255,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87474,0 -94.7851,38.87474,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87474,0 -94.7851,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87474,0 -94.78495,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.87474,0 -94.784805,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87474,0 -94.78465,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87474,0 -94.7845,38.87474,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.87474,0 -94.7845,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87474,0 -94.784355,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7842,38.87474,0 -94.78405,38.87474,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.87474,0 -94.78405,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87484,0 -94.78555,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87484,0 -94.7854,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87484,0 -94.785255,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87484,0 -94.7851,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87484,0 -94.784805,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87484,0 -94.78465,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.87484,0 -94.7845,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87484,0 -94.7842,38.87484,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7842,38.87484,0 -94.7842,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.87484,0 -94.78405,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87494,0 -94.78555,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87494,0 -94.7854,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87494,0 -94.7851,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87494,0 -94.78495,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87494,0 -94.784805,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.87494,0 -94.784805,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.87494,0 -94.78465,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.87494,0 -94.784355,38.87494,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87494,0 -94.784355,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7842,38.87494,0 -94.7842,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.87494,0 -94.78405,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.875042,0 -94.78555,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.875042,0 -94.785255,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.875042,0 -94.7851,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.875042,0 -94.7851,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.875042,0 -94.784805,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.875042,0 -94.7845,38.875042,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.875042,0 -94.7845,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.875042,0 -94.784355,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.875042,0 -94.78405,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87514,0 -94.78555,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87514,0 -94.7854,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87514,0 -94.7854,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87514,0 -94.785255,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87514,0 -94.7851,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87514,0 -94.78495,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87514,0 -94.784805,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.87514,0 -94.784805,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.87514,0 -94.78465,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87514,0 -94.7845,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87514,0 -94.784355,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87514,0 -94.7842,38.87514,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.87514,0 -94.78405,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87524,0 -94.78555,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87524,0 -94.785255,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87524,0 -94.7851,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87524,0 -94.78495,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87524,0 -94.784805,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87524,0 -94.78465,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87524,0 -94.7845,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87524,0 -94.784355,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7842,38.87524,0 -94.78405,38.87524,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.87524,0 -94.78405,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87534,0 -94.78555,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87534,0 -94.785255,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87534,0 -94.785255,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87534,0 -94.7851,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87534,0 -94.78495,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.87534,0 -94.78465,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87534,0 -94.7845,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.87534,0 -94.7845,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87534,0 -94.7842,38.87534,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7842,38.87534,0 -94.7842,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.87534,0 -94.78405,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.875443,0 -94.78555,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.875443,0 -94.7854,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.875443,0 -94.785255,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.875443,0 -94.7851,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.875443,0 -94.784805,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.875443,0 -94.784805,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.875443,0 -94.78465,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.875443,0 -94.78465,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.875443,0 -94.7845,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.875443,0 -94.784355,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.875443,0 -94.7842,38.875443,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7842,38.875443,0 -94.7842,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.875443,0 -94.78405,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87554,0 -94.78555,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87554,0 -94.785255,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87554,0 -94.7851,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87554,0 -94.78495,38.87554,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87554,0 -94.78465,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87554,0 -94.784355,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78405,38.87554,0 -94.78405,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78555,38.87564,0 -94.7854,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7854,38.87564,0 -94.785255,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.785255,38.87564,0 -94.7851,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7851,38.87564,0 -94.78495,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78495,38.87564,0 -94.784805,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784805,38.87564,0 -94.78465,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.78465,38.87564,0 -94.7845,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7845,38.87564,0 -94.784355,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.784355,38.87564,0 -94.7842,38.87564,0 
+</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#yellowLineGreenPoly</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>absolute</altitudeMode><coordinates>
+-94.7842,38.87564,0 -94.78405,38.87564,0 
+</coordinates></LineString></Placemark>
+  </Document>
+</kml>

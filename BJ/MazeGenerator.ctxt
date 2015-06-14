@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=MazeGenerator(int,\ int)
+comment1.params=
+comment1.target=void\ display()
+comment2.params=cx\ cy
+comment2.target=void\ generateMaze(int,\ int)
+comment3.params=v\ upper
+comment3.target=boolean\ between(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
